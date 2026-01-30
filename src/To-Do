@@ -1,0 +1,26 @@
+To-Do
+
+New Pointer pages implementation
+
+
+CIL integration:
+
+1. Go through SoftPM code and integrate in pmlib.
+
+Version Control
+
+1. Modify meta-data structure for slab entries.
+
+2. test if bitmaps working properly.
+
+3. Modify copy during checkpointing.
+
+4. Modify during restoring.
+
+5. creating new apis. 
+
+6. test.
+
+
+
+

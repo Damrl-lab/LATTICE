@@ -1,0 +1,6 @@
+*.o
+*.d
+*.c.o
+build/*
+applications/darknet/debug/*
+applications/darknet/build_release/*
